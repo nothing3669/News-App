@@ -28,6 +28,6 @@
     "@babel/core": "^7.9.0"
   },
   "private": true,
-  "name": "News-App",
+  "name": "news-app",
   "version": "1.0.0"
 }
