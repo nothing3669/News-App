@@ -1,0 +1,5 @@
+# Removing Auto Created Folders
+
+node_modules/
+.expo/
+.expo-shared/
